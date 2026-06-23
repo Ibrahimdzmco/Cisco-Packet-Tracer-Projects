@@ -15,3 +15,17 @@ The goal of this first lab is to understand the absolute basics of local area ne
 
 ### 📐 Network Diagram
 ![Lab 01 Diagram](network_topology.png)
+---
+
+## 🔹 Lab 02: Basic Static Routing
+
+The goal of this second lab is to explore how to configure static routing between two routers to allow communication between different networks.
+
+### 📋 Learning Objectives:
+* Learn the core concepts of **Static Routing**.
+* How to configure IP addresses and Subnet Masks on routers and PCs.
+* How to configure static routes on Cisco routers.
+* How to use the `ping` command to test and verify connectivity.
+
+### 🖧 Network Diagram
+![Lab 02 Diagram](static_routing_topology.png)
